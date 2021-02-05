@@ -1,7 +1,0 @@
-django
-whitenoise
-requests
-numpy
-scipy
-pandas
-jupyter
